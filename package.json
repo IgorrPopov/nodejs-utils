@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-utils",
+  "version": "1.0.0",
+  "description": "The repo contains handy utils for NodeJS development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Popov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.62",
+    "typescript": "^4.8.4"
+  }
+}
